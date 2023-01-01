@@ -1,7 +1,5 @@
 # Python
 
->项目代码地址：D:\pycharm\code\study
-
 ## 1、输出函数print
 
 * 默认输出在控制台，并且输出完毕自动生成一个换行
